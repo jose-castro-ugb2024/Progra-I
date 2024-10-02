@@ -73,6 +73,7 @@ namespace academica {
             grbDatosAlumno.Enabled = estado;
             grbNavegacionAlumno.Enabled = !estado;
             btnEliminarAlumno.Enabled = !estado;
+
             //btnBuscarAlumno.Enabled= !estado;
         }
 
